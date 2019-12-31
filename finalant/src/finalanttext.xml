@@ -1,0 +1,6 @@
+<project name="finalant" default="final" basedir='.'>
+	<propery name="anttext" value="ant"/>
+	<target name="final">
+		<echo>${anttext}</echo>
+	</target>
+</project>
